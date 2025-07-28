@@ -1,4 +1,4 @@
-const BOT_TOKEN = '修改为自己的机器人令牌';
+const BOT_TOKEN = '8321899237:AAFtkhUlviKGQ-ySv9OnvMOPJvTkeSYpw1M';
 
 export default {
   async fetch(request, env, ctx) {
